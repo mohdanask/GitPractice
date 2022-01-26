@@ -21,4 +21,12 @@ public class HomeFeature
 		hs.verifyCRM();
 		hs.verifyUsername(username);
 	}
+	
+	public void verifyHomePage2(String username)
+	{
+		hs.verifyCRM();
+		hs.verifyUsername(username);
+	}
+	
+	
 }
