@@ -7,7 +7,7 @@ import com.odoo.steps.LoginSteps;
 
 public class LoginFeature
 {
-	//anas
+//we all
 LoginSteps ls;
 
 	public LoginFeature(WebDriver driver)
