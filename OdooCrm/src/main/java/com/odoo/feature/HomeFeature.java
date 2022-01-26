@@ -22,11 +22,11 @@ public class HomeFeature
 		hs.verifyUsername(username);
 	}
 	
-	public void verifyHomePage2(String username)
+	
+	public void verifyHomePage3(String username)
 	{
 		hs.verifyCRM();
 		hs.verifyUsername(username);
 	}
-	
 	
 }
