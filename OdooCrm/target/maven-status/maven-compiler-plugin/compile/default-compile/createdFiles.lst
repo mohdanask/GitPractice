@@ -1,0 +1,10 @@
+com\odoo\feature\HomeFeature.class
+com\odoo\generic\ExcelUtilities$1.class
+com\odoo\feature\LoginFeature.class
+com\odoo\steps\LoginSteps.class
+com\odoo\generic\Driver.class
+com\odoo\generic\GenericLib.class
+com\odoo\pageobject\LoginPage.class
+com\odoo\steps\HomeSteps.class
+com\odoo\generic\ExcelUtilities.class
+com\odoo\pageobject\HomePage.class

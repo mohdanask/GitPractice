@@ -1,0 +1,7 @@
+com\odoo\webutils\BrowserFactory.class
+com\odoo\scripts\BaseAbstractTest.class
+com\odoo\scripts\LoginTest.class
+com\odoo\webutils\ChromeCapabilities.class
+com\odoo\webutils\SeleniumLib.class
+com\odoo\webutils\FirefoxCapabilities.class
+com\odoo\webutils\MyTestListener.class
